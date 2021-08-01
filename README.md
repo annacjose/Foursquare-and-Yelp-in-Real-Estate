@@ -1,6 +1,6 @@
 # MINI-PROJECT-2
  
-Foursquare and Yelp
+Foursquare and Yelp - Real Estate
  
 In this miniproject, we will combine and practice topics that we have learned in previous two weeks:
 
