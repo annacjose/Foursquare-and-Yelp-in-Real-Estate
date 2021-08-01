@@ -1,5 +1,7 @@
 # MINI-PROJECT-2
  
+Foursquare and Yelp
+ 
 In this miniproject, we will combine and practice topics that we have learned in previous two weeks:
 
 APIs
